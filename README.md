@@ -41,11 +41,11 @@ Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del co
 
 - Antonio García (policía nacional, 32 años)
 
-![Man](img/man.jpg)
+![Man](img/man.png)
 
 - Marian Henderson (estudiante de BBAA, 21 años)
 
-![Woman](img/woman.jpg)
+![Woman](img/woman.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
