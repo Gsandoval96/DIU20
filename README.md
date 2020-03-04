@@ -41,17 +41,24 @@ Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del co
 
 - Antonio García (policía nacional, 32 años)
 
-![Man](img/man.png)
+![Man](P1/man.png)
 
 - Marian Henderson (estudiante de BBAA, 21 años)
 
-![Woman](img/woman.png)
+![Woman](P1/woman.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+>>> Hemos escogido estos casos porque tienen una gran variedad de inconvenientes muy comunes que pueden surgir de cara a organizar un viaje, especialmente si es con gente desconocida. Entendemos que son experiencias de usuario relativamente comunes.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
+- Antonio García (viaje con animal de compañía)
+
+![JMan](P1/jman.png)
+
+- Marian Henderson (viaje de estudiantes)
+
+![JWoman](P1/jwoman.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
