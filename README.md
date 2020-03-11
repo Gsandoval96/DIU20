@@ -34,6 +34,8 @@ Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del co
 
 >>> Entre las aplicaciones propuestas, las que nos han llamado más la atención han sido: Nomadizers, Trip Giraffe y Miss Travel, pero finalmente nos hemos decantado por Trip Giraffe ya que nos ha resultado la más llamativa de las tres.
 
+---
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
@@ -46,6 +48,8 @@ Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del co
 - Marian Henderson (estudiante de BBAA, 21 años)
 
 ![Woman](P1/woman.png)
+
+---
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -60,14 +64,16 @@ Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del co
 
 ![JWoman](P1/jwoman.png)
 
+---
+
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf)
->>> - Valoración final (numérica):
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>>  Revisión de usabilidad:
+>>> - Enlace al documento:  [Usability-Review](https://github.com/Gsandoval96/DIU20/blob/master/P1/Usability-review-Trip-Giraffe.pdf)
+>>> - Valoración final (numérica): 80 - Good
+>>> - Comentario sobre la valoración:  La valoración se asemeja con la realidad, ya que a pesar de contar con algunos fallos, la web cumple con su cometido y muestra la información de manera clara y sencilla.
 
+---
 
 ## Paso 2. UX Design  
 
