@@ -112,8 +112,17 @@ Se ha escogido el método de User/Task matrix ya que permite con un vistazo ráp
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+![Página de inicio](P2/Wireframe/1.png)
 
+![Login](P2/Wireframe/2.png)
+
+![Página principal](P2/Wireframe/3.png)
+
+![Crear viaje 1](P2/Wireframe/4a.png)
+
+![Crear viaje 2](P2/Wireframe/4b.png)
+
+![Perfil](P2/Wireframe/5.png)
 
 ## Paso 3. Make (Prototyping)
 
