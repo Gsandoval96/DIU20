@@ -1,17 +1,15 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
-Grupo: DIU1_QWERTY.  Curso: 2019/20
+Grupo: DIU1_QWERTY.  Curso: 19/20
 
-Proyecto: Usability Review about Trip Giraffe
+Proyecto: Prácticas DIU 19/20
 
 Descripción:
 
 Logotipo:
 
-Miembros
- * :bust_in_silhouette:   María Sánchez Marcos
-  - :octocat: [@MarightWing](https://github.com/MarightWing)   
+Miembros  
  * :bust_in_silhouette:  Guillermo Sandoval Schmidt     
   - :octocat: [@Gsandoval96](https://github.com/Gsandoval96)
 
@@ -84,33 +82,31 @@ Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del co
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-
+![Feedback Capture Grid](P2/FEEDBACK_CAPTURE_GRID.png)
 
 
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
+
+Se plantea desarrollar una app móvil que apoye a la página web, mejorando la usabilidad, integrando otras funcionalidades como integración de otras RRSS o enlaces a web para contratar viajes.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
 
->>> Definir "User Map" y "Task Flow" ...
+![User7task matrix](P2/User_task_matrix.png)
 
+Se ha escogido el método de User/Task matrix ya que permite con un vistazo rápido distinguir los puntos críticos del sistema, puediendo centrarse en el desarrollo de los mismos. Además, ayuda a diferenciar facilmente la importancia de las tareas en función del tipo de usuario.
+
+![Sitemap](P2/Sitemap.png)
 
 ![Método UX](img/labelling.png) 2.c Labelling
 ----
 
 
->>> Identificar términos para diálogo con usuario  
+![Labelling](P2/labelling1.png)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![Labelling](P2/labelling2.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
