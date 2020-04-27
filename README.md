@@ -124,20 +124,22 @@ Se ha escogido el método de User/Task matrix ya que permite con un vistazo ráp
 
 ![Perfil](P2/Wireframe/5.png)
 
-## Paso 3. Mi equipo UX-Case Study
+---------------------------------------------------------------------
 
+## Paso 3. Mi equipo UX-Case Study
 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
-
->>> Analizar lo aprendido de la experiencia MuseApp
+Comentario sobre *'MuseMap Street Art App — UX Case Study'* --> [aquí](../P3/README.md)
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+
+PENDIENTE DE DISEÑO
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -155,7 +157,7 @@ Se ha escogido el método de User/Task matrix ya que permite con un vistazo ráp
 
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
-
+M
 >>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
 
 >>>> En la sección P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
