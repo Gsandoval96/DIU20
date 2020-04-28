@@ -165,7 +165,18 @@ Por otra parte, se han usado cuatro colores, siendo el verde con código #007C3F
 
 ![Guía de Estilo](P3/EstiloTabiTravel.png)
 
--
+#### Patrones de diseño
+
+Investigando sobre patrones de diseño, he podido encontrar [Material Design](https://material.io/), un sistema de diseño *open-source*, que nos introduce una manera sencilla de entrar en el mundo del diseño de aplicaciones.
+
+Nos aporta una serie de herramientas como:
+
+- Pautas de diseño, que incluyen desde detalles de estilo hasta buenas práctica.
+- Guía de componentes, que nos permite crear una interfaz de usuario sencilla y bonita, tanto para dispositivos móviles como para formato Web.
+- Acceso a multitud de iconos.
+- Pautas para hacer accesible nuestra aplicación, ayudándonos a crear una aplicación en la que a los usuarios les sea sencillo navegar, entender y usar nuestra interfaz.
+
+---
 
 
 

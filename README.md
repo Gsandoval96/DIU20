@@ -125,7 +125,7 @@ Podemos ver algunos ejemplos de aplicación del Imagotipo a continuación:
 
 ![Imagotipo](P3/TabiTravel2.png)
 
-
+---
 
 ![Método UX](img/guidelines.png) 3.b Guidelines
 ----
@@ -138,9 +138,31 @@ Por otra parte, se han usado cuatro colores, siendo el verde con código #007C3F
 
 ![Guía de Estilo](P3/EstiloTabiTravel.png)
 
+#### Patrones de diseño
 
+Investigando sobre patrones de diseño, he podido encontrar [Material Design](https://material.io/), un sistema de diseño *open-source*, que nos introduce una manera sencilla de entrar en el mundo del diseño de aplicaciones.
 
-![Método UX](img/mockup.png)  3.d Propuesta de valor
+Nos aporta una serie de herramientas como:
+
+- Pautas de diseño, que incluyen desde detalles de estilo hasta buenas práctica.
+- Guía de componentes, que nos permite crear una interfaz de usuario sencilla y bonita, tanto para dispositivos móviles como para formato Web.
+- Acceso a multitud de iconos.
+- Pautas para hacer accesible nuestra aplicación, ayudándonos a crear una aplicación en la que a los usuarios les sea sencillo navegar, entender y usar nuestra interfaz.
+
+---
+
+![Método UX](../img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Se ha desarrollado un vídeo sencillo explicando el proceso y las técnicas utilizadas para el desarrollo de este proyecto. Se encuentra disponible [aquí]().
+
+---
+
+![Método UX](../img/KickOfMeeting.png)  3.d Lo que sigue
+----
+
+De cara al futuro el trabajo del equipo deberá centrarse en:
+
+- Seguir investigando patrones de diseño, en este caso, seguiría la línea marcada por Material Design.
+- Desarrollo de una versión beta de la interfaz, que pueda ser sometida a pruebas con usuarios reales.
+- Estudiar la integración adecuada de RRSS en la aplicación.
