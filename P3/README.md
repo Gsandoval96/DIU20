@@ -64,7 +64,7 @@ Nos aporta una serie de herramientas como:
 ![Método UX](../img/mockup.png)  3.d Video
 ----
 
-Se ha desarrollado un vídeo sencillo explicando el proceso y las técnicas utilizadas para el desarrollo de este proyecto. Se encuentra disponible [aquí]().
+Se ha desarrollado un vídeo sencillo explicando el proceso y las técnicas utilizadas para el desarrollo de este proyecto. Se encuentra disponible [aquí](https://youtu.be/KehHFnar3tU).
 
 ---
 

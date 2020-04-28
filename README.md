@@ -151,14 +151,14 @@ Nos aporta una serie de herramientas como:
 
 ---
 
-![Método UX](../img/mockup.png)  3.d Video
+![Método UX](/img/mockup.png)  3.d Video
 ----
 
-Se ha desarrollado un vídeo sencillo explicando el proceso y las técnicas utilizadas para el desarrollo de este proyecto. Se encuentra disponible [aquí]().
+Se ha desarrollado un vídeo sencillo explicando el proceso y las técnicas utilizadas para el desarrollo de este proyecto. Se encuentra disponible [aquí](https://youtu.be/KehHFnar3tU).
 
 ---
 
-![Método UX](../img/KickOfMeeting.png)  3.d Lo que sigue
+![Método UX](/img/KickOfMeeting.png)  3.d Lo que sigue
 ----
 
 De cara al futuro el trabajo del equipo deberá centrarse en:
