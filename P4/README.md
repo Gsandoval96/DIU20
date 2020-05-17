@@ -7,7 +7,7 @@
 - **Hoja de valoración: **
 	- **Puntuación:** 86 (Bueno).
 	- **Conclusiones:** proyecto muy completo y bien organizado. El vídeo es mejorable pero recoge bien el proceso de desarrollo y el porqué de las decisiones tomadas.
-	- Informe completo disponible [aquí](DIU3.workers.pdf)
+	- Informe completo disponible [aquí](https://github.com/Gsandoval96/DIU20/tree/master/P4/DIU3.workers.pdf)
 
 
 ## Caso 2 . DIU2.SVPJ
@@ -17,7 +17,7 @@
 - **Hoja de valoración: **
 	- **Puntuación:** 87 (Bueno).
 	- **Conclusiones:** proyecto completo y con un vídeo que es su punto fuerte. Se echa en falta un repositorio algo mejor organizado, sobretodo por el README principal.
-	- Informe completo disponible [aquí](DIU2.SVPJ.pdf)
+	- Informe completo disponible [aquí](https://github.com/Gsandoval96/DIU20/tree/master/P4/DIU2.SVPJ.pdf)
 
 
 ## Caso 3 - DIU3.UserLAB
@@ -27,11 +27,11 @@
 - **Hoja de valoración: **
 	- **Puntuación:** 53 (Justo).
 	- **Conclusiones:** proyecto incompleto y en muchas situaciones parece que no se ha entendido el objetivo de algunos de los apartados.
-	- Informe completo disponible [aquí](DIU3.UserLAB.pdf)
+	- Informe completo disponible [aquí](https://github.com/Gsandoval96/DIU20/tree/master/P4/DIU3.UserLAB.pdf)
 
 ## User Testing
 
-Se ha escogido para las pruebas al usuario ficticio [Antonio García](../P1/man.png).
+Se ha escogido para las pruebas al usuario ficticio [Antonio García](https://github.com/Gsandoval96/DIU20/tree/master/P1/man.png).
 
 - **Experiencia 1:** Antonio busca un grupo de gente con la que realizar rutas de senderismo junto con su perro. Antonio se registra en Nature Sport y encuentra una actividad de senderismo cerca de donde vive. Inicialmente, Antonio no encuentra demasiado detallada la descripción de la actividad, por lo que no sabe si podrá llevar a su compañero, sin embargo, se pone en contacto con uno de los usuarios que se ha unido a la ruta y descubre que sí puede llevar animales. Antonio y su perro se unen a la ruta satisfactoriamente.
 
