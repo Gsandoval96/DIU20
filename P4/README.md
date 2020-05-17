@@ -4,7 +4,7 @@
 
 - **Descripción:** aplicación web que permitirá a los usuarios organizar actividades deportivas (tales como trekking, montañismo o ciclismo), principalmente en entornos naturales.
 - **Github:** [DIU3.workers](https://github.com/josalmer/DIU3_Workers)
-- **Hoja de valoración: **
+- **Hoja de valoración:**
 	- **Puntuación:** 86 (Bueno).
 	- **Conclusiones:** proyecto muy completo y bien organizado. El vídeo es mejorable pero recoge bien el proceso de desarrollo y el porqué de las decisiones tomadas.
 	- Informe completo disponible [aquí](https://github.com/Gsandoval96/DIU20/tree/master/P4/DIU3.workers.pdf)
@@ -14,7 +14,7 @@
 
 - **Descripción:** plataformas que te permiten compartir compañeros (para un piso de estudiantes), desplazarte a otros lugares de forma alternativas (sofá) y muy económicas (alternativas a una transacción económica).
 - **Github:** [DIU2.SVPJ](https://github.com/sergiovp/DIU)
-- **Hoja de valoración: **
+- **Hoja de valoración:**
 	- **Puntuación:** 87 (Bueno).
 	- **Conclusiones:** proyecto completo y con un vídeo que es su punto fuerte. Se echa en falta un repositorio algo mejor organizado, sobretodo por el README principal.
 	- Informe completo disponible [aquí](https://github.com/Gsandoval96/DIU20/tree/master/P4/DIU2.SVPJ.pdf)
@@ -24,7 +24,7 @@
 
 - **Descripción:** plataforma para poner en contacto a gente con intereses musicales y artísticos similares. (No queda especialmente claro en el README).
 - **Github:** [DIU3.UserLAB](https://github.com/miguelroldanc/DIU20)
-- **Hoja de valoración: **
+- **Hoja de valoración:**
 	- **Puntuación:** 53 (Justo).
 	- **Conclusiones:** proyecto incompleto y en muchas situaciones parece que no se ha entendido el objetivo de algunos de los apartados.
 	- Informe completo disponible [aquí](https://github.com/Gsandoval96/DIU20/tree/master/P4/DIU3.UserLAB.pdf)
